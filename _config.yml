@@ -58,22 +58,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Emory Richardson"
+  avatar : "/assets/images/HeadShot.png"
+  bio    : "PhD Candidate @Yale."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/_EDRichardson"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "OSF"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "osf.io/s4n9k"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-instagram"
+      url: https://scholar.google.com/citations?user=mDNw_sYAAAAJ&hl=en&oi=ao
 
 footer:
   links:
